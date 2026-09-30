@@ -66,6 +66,7 @@ Type **The code** shown on the sender page.
 3. Use the **volume slider** on the phone to adjust playback.
 
 ---
+<img width="515" height="446" alt="image" src="https://github.com/user-attachments/assets/ad70a714-78f4-4c68-b355-fb0c5aee345d" />
 
 ## Tips
 
